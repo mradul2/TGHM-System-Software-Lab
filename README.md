@@ -1,3 +1,6 @@
+# CSE-6th-Semester-IIT-KGP  
+### `Disclaimer:` Do not copy codes though. Heavy penalization for plagiarism.    
+
 # Travel In Good Health Management System
 
 ## Installation
